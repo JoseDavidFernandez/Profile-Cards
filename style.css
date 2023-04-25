@@ -1,0 +1,85 @@
+ /* Google Fonts - Poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #EFEFEF;
+}
+
+
+/* DIV PRINCIPAL: FLEX-CARD
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.flex-card{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+/* DIV: CARD
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.card{
+    width: 250px;
+    height: 450px;
+    border-radius: 25px;
+    background-color: #FFF;
+    margin: 1rem;
+    border: 1px solid black;
+    text-align: center;
+}
+
+/* DIV: CARD -> CARD-IMAGEN
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.card-image{
+    background: #4070F4;
+    border-radius: 25px 25px 0px 0px;
+    padding: 25px 0;
+    display: flex;
+    justify-content: center;
+}
+.card-img{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    background: #FFF;
+}
+.image{
+    width: 150px;
+    height: 150px;
+}
+
+
+/* DIV: CARD -> CARD-CONTENT
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.card-content {
+    padding: 15px 14px;
+    display: flex;
+    flex-direction: column;
+    /* align-content: center; */
+    align-items: center;
+}
+.description{
+    padding: 10px 0px;
+    font-size: 14px;
+    color: #707070;
+    text-align: center;
+}
+.button{
+    border: none;
+    font-size: 16px;
+    color: #FFF;
+    padding: 8px 16px;
+    background-color: #4070F4;
+    border-radius: 6px;
+    margin: 15px;
+    cursor: pointer;
+}
