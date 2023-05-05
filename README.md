@@ -3,8 +3,8 @@ Este proyecto de HTML y CSS consiste en una plantilla con 4 cartas de perfiles d
 
 - [Sitio Web](https://user-images.githubusercontent.com/107296373/228806021-7f2017cd-a4de-48ff-843b-0398c7377ab8.png)
 
-## Authors 
-[@JoseDavidFernandez](https://github.com/JoseDavidFernandez) 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://josedavidfernandezcomino.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josedavidfernándezcomino/)
 
-<!-- ##LOGO --> 
-<p align="right"> <img width="100" height="100" src="https://user-images.githubusercontent.com/107296373/224087171-4a4f1718-9c62-44a7-8dc6-c922071c4f4b.png"> </p>
+![Logo](https://user-images.githubusercontent.com/107296373/236514091-5f8a9760-35df-46fb-b922-f046bcbef5af.png)
